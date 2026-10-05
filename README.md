@@ -47,10 +47,11 @@ python scripts/check_env.py
 
 ## Project Structure
 - `src/assistant/`: Core rule-based assistant implementation.
+- `ui/`: User interface plans and implementations (scheduled from Week 7).
 - `data/`: CSV data containing office locations and hours.
 - `tests/`: Automated smoke tests.
 - `scripts/`: Development environment check scripts.
-- `docs/`: Lab documentation and pair verification sheets.
+- `docs/`: Lab documentation, team roster, and pair verification sheets.
 
 ## Troubleshooting
 - **No module named assistant**: Ensure `.venv` is activated and run `pip install -e .`.
