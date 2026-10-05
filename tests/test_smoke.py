@@ -18,3 +18,9 @@ def test_it_helpdesk():
 def test_unknown_query():
     res = reply("random gibberish question 12345")
     assert "I'm sorry" in res
+
+def test_medical_station():
+    res = reply("where is the medical station?")
+    assert "A.105" in res
+    assert "Medical Station" in res
+
