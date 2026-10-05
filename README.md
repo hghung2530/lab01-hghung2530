@@ -7,8 +7,8 @@ Prerequisites: Python 3.10+, Git.
 
 ```bash
 # Clone repository
-git clone https://github.com/giahunh2901-prog/lab01-giahunh2901.git
-cd lab01-giahunh2901
+git clone https://github.com/hghung2530/lab01-hghung2530.git
+cd lab01-hghung2530
 
 # Create and activate virtual environment
 python -m venv .venv

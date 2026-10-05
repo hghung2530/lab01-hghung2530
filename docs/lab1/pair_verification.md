@@ -1,7 +1,7 @@
 # Pair Verification Sheet — Lab 1
 
-- **Student:** HOANG GIA HUNG (giahunh2901-prog)
-- **Repository:** https://github.com/giahunh2901-prog/lab01-giahunh2901
+- **Student:** HOANG GIA HUNG (hghung2530)
+- **Repository:** https://github.com/hghung2530/lab01-hghung2530
 - **Verifier (Partner):** [Partner Name / GitHub Username]
 - **Date:** 2026-10-05
 
